@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/00-Map-Interface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/01-HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/02-LinkedHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/03-TreeMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/04-Hashtable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/05-EnumMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/06-WeakHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/07-IdentityHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/08-Properties" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/09-ConcurrentHashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Map-Interface-and-Implementations/10-ConcurrentSkipListMap" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

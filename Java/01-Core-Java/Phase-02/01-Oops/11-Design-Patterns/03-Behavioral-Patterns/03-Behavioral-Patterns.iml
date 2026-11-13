@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01-Chain-of-Responsibility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02-Command" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03-Interpreter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04-Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Mediator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-Memento" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07-Observer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-State" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-Strategy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-Template-Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11-Visitor" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
